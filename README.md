@@ -9,6 +9,16 @@
 5) Seaborn
 6) nltk
 
+## Observations :-
+| Model | Accuracy | 
+|-----------|:-----------:| 
+| Naive Bayes | 85.21% | 
+| Random Forest | 85.44% |
+| Logistic Regression | 89.48% |
+
+### Result:- 
+We can see that among the three models Logistic Regression gives the best results.
+
 ###### Note: This is a course project, I have used multiple resourses to complete it, those are as follows.
   
 ## Reference links
